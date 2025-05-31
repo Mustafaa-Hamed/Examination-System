@@ -2,7 +2,7 @@
 It simulates a real-world examination system with full database modeling and implementation.
 
 our system has 12 files  
-			Each file has each persona in system 
+	Each file has each persona in system 
 
 
 our system has 4 logins accounts:
@@ -13,13 +13,13 @@ our system has 4 logins accounts:
 
 our system has some of process as explained:
 	System Req:
-       	        Accounts Permissions                                             Created by: Mostafa Hamed
+       	        Accounts Permissions                                          
 		Make Indexed  Database                                                      
 		Backup:  --Full Back up every 10 monthes                                 
 		         --Daily Back up    (Automatically)                
 	   
 	   
-	  Instructor can make exam (His Course only)                      Created by: Mohamed Saleh 
+	  Instructor can make exam (His Course only)                     
 	         *can set question of exam  
 			 *can set degree of each Question.
 			 *can set total degree.
@@ -27,13 +27,13 @@ our system has some of process as explained:
 			 *can select date of exam , start time , end time , total time.
 			 
 			 
-			 *can identify which type of exam.                        Created by: Ahmed Hesham 
+			 *can identify which type of exam.                        
 			 *can select intake , branch, track, course (Inside exam)  )
 			 *System Can correct exam and detect the best answer for question (Bouns)(All question types)
 	
 
 	
-      Student:                                                        Created By: Mahmoud abdelkhalek
+      Student:                                                        
 	        *can log in into system.
 			*can take exam twice.
 			*can discover his degree of exam.      
@@ -41,7 +41,7 @@ our system has some of process as explained:
 			
 			
 			
-	 Tranining Manager:                                              Created By: Nada Zohny 
+	 Tranining Manager:                                               
 		       *can edit and add: 
              			    branches 
 					     	track 
@@ -52,16 +52,16 @@ our system has some of process as explained:
 		
 		
 
-Entity Relationship Diagram (ERD)
+##Entity Relationship Diagram (ERD)
 
 ![ERD](ERD.drawio.png)
 
 
-Mapping 
+##Mapping 
 ![Mapping Documentation](Mapping_PNG.png)
 
-Trello 
+##Trello 
 ![Trello](4.png)
 
-Diagram 
+##Diagram 
 ![SQL Server Diagram](3.png)
