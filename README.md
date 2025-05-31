@@ -1,18 +1,18 @@
 # Examination-System
 It simulates a real-world examination system with full database modeling and implementation.
 
-##our system has 12 files  
+our system has 12 files  
 			Each file has each persona in system 
 
-##our system has 4 logins accounts:
-Admin                Windo - auth
-Tranining Manager    123478
-Student              123489
-Instructor           123410 
+our system has 4 logins accounts:
+	Admin                Windo - auth
+	Tranining Manager    123478
+	Student              123489
+	Instructor           123410 
 
-##our system has some of process as explained:
-System Req:
-        Accounts Permissions                                          Created by: Mostafa Hamed
+our system has some of process as explained:
+	System Req:
+       	        Accounts Permissions                                             Created by: Mostafa Hamed
 		Make Indexed  Database                                                      
 		Backup:  --Full Back up every 10 monthes                                 
 		         --Daily Back up    (Automatically)                
