@@ -4,6 +4,7 @@ It simulates a real-world examination system with full database modeling and imp
 our system has 12 files  
 			Each file has each persona in system 
 
+
 our system has 4 logins accounts:
 	Admin                Windo - auth
 	Tranining Manager    123478
@@ -50,4 +51,5 @@ our system has some of process as explained:
 				*Permissions of all training managers 
 		
 		
-		
+
+
