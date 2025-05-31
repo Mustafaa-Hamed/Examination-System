@@ -52,4 +52,7 @@ our system has some of process as explained:
 		
 		
 
+Entity Relationship Diagram (ERD)
+
+![ERD](ERD.drawio.png)
 
