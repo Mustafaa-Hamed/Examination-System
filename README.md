@@ -58,5 +58,5 @@ Entity Relationship Diagram (ERD)
 
 
 Mapping 
-(Mapping_PNG.png)
+![Mapping Documentation](Mapping_PNG.png)
 
