@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Examination_Project">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-MODL20N:DESKTOP-MODL20N\Admin">
+          <Created>2025-05-31T03:07:40.9766816+03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-MODL20N</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <HostNameInServerCertificate />
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Backups .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MODL20N:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MODL20N</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Backups .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Creation_Ulter .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MODL20N:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MODL20N</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Creation_Ulter .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Excute_File .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MODL20N:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MODL20N</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Excute_File .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Index.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MODL20N:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MODL20N</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Index.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Insert_Data .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MODL20N:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MODL20N</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Insert_Data .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Instructor_I.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MODL20N:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MODL20N</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Instructor_I.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Instructor_II.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MODL20N:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MODL20N</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Instructor_II.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Logins .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MODL20N:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MODL20N</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Logins .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Student and Cursor  .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MODL20N:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MODL20N</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Student and Cursor  .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Training_Manager.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-MODL20N:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-MODL20N</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Training_Manager.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
